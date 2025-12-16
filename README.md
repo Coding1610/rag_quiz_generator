@@ -6,6 +6,10 @@ This project goes beyond simple *PDF → LLM* approaches by using **semantic ret
 
 ---
 
+<img className="flex justify-center items-center" src='./Web_Preview.png' />
+
+---
+
 ## 🚀 Key Features
 
 - 📄 Upload any **PDF notes / study material**
